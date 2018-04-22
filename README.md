@@ -30,7 +30,8 @@ Chapter Planning and Handouts
 10. Read 1.4.1.2 - 1.5.1.1 (2 Pages)
 10. See Additional Resources and Activities for Chapter 1
     - In GitHub, see PDF located in Introduction
-11. Review Cue Cards (Ch 1 Terms and Concepts Practice
+11. Review Cue Cards (Ch 1 Terms and Concepts Practice)
+12. Complete Ch 1 Ethics Quiz
 12. Complete Ch 1 Quiz
 
 Vimeo Video: Stuxnet: Anatomy of a Computer Virus (Time: 3:21)
