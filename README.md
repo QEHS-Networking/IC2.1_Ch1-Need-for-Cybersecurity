@@ -37,7 +37,7 @@ Vimeo Video: Stuxnet: Anatomy of a Computer Virus (Time: 3:21)
 <img src="http://img.vimeo.com/vi/25118844/0.jpg"
 alt="Stuxnet: Anatomy of a Computer Virus" width="240" height="180" border="10" /></a>
 
-### Contents
+### Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
 Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Academy for grading
 - Chp1_Supplemental_Material.pptx
