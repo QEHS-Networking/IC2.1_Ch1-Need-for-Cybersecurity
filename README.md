@@ -39,6 +39,7 @@ alt="Stuxnet: Anatomy of a Computer Virus" width="240" height="180" border="10" 
 
 ### Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
+
 Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Academy for grading
 - Chp1_Supplemental_Material.pptx
 - LocateYourPersonalData_Student.docx (Only Located Here)
