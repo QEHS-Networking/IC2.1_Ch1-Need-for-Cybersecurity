@@ -29,7 +29,9 @@ Chapter Planning and Handouts
 9. Vimeo Video (Link below or in Cisco Online Material) Stuxnet: Anatomy of a Computer Virus (Time: 3:21)
 10. Read 1.4.1.2 - 1.5.1.1 (2 Pages)
 10. See Additional Resources and Activities for Chapter 1
-   - In GitHub, see PDF located in Introduction
+    - In GitHub, see PDF located in Introduction
+11. Review Cue Cards (Ch 1 Terms and Concepts Practice
+12. Complete Ch 1 Quiz
 
 Vimeo Video: Stuxnet: Anatomy of a Computer Virus (Time: 3:21)
 
