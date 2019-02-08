@@ -36,11 +36,28 @@ Chapter Planning and Handouts
 
 Vimeo Video: Stuxnet: Anatomy of a Computer Virus (Time: 3:21)
 
-<a href="https://vimeo.com/25118844" target="_blank">
+<a href="https://vimeo.com/25118844">
 <img src="http://img.vimeo.com/vi/25118844/0.jpg"
 alt="Stuxnet: Anatomy of a Computer Virus" width="240" height="180" border="10" /></a>
 
-### Contents of this Repo
+## Additional Readings of Chapter 1
+
+Note: Additional information and questions can be Googled or asked of guest speakers using this vocabulary
+
+Understanding Issues for the Banking Industries
+- The Tapestry Network site states that members of the Financial Services Network developed these reports to address issues that are faced by financial institutions. Visit the following link and explore the topics in Financial Services issues:
+- http://www.tapestrynetworks.com/issues/financial-services/
+
+Supply Chain Risk Management
+- The following link points to a document that explains how a supplier can compromise network security and provides other resources regarding supply chain risk management:
+- http://measurablesecurity.mitre.org/directory/areas/supplychainrisk.html
+
+Cybercrime or Cyberwarfare?
+- Cybercrime is the act of committing a crime in a cyber environment; however, a cybercrime does not necessarily constitute an act of cyberwarfare. Cyberwarfare can include various forms of sabotage and
+espionage with the intent to exploit a nation or government. The following article describes the difference between cybercrime and cyberwarfare:
+- http://www.pcworld.com/article/250308/when_is_a_cybercrime_an_act_of_cyberwar_.html
+
+## Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
 
 Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Academy for grading
@@ -52,3 +69,10 @@ Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Aca
 - 1.2.2.5 Lab - What was Taken.pdf
 - 1.4.1.1 Video - Breaking Down Stuxnet.docx
 - 1.4.1.1 Video - Breaking Down Stuxnet.pdf
+
+---
+
+# To Include
+
+
+---
